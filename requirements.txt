@@ -1,14 +1,15 @@
-bokeh==1.4.0
-geoplotlib==0.3.2
-ipython==7.9.0
-ipywidgets==7.5.1
-jupyter==1.0.0
-matplotlib==3.1.2
-notebook==6.1.5
-numpy==1.17.4
-pandas==0.25.3
-pyglet==1.4.8
-scikit-learn==0.22
-scipy==1.3.3
-seaborn==0.9.0
+bokeh
+# geoplotlib
+folium # swapped from geoplotlib (abandoned package, won't build on Python 3.13)
+ipython
+ipywidgets
+jupyter
+matplotlib
+notebook
+numpy
+pandas
+pyglet
+scikit-learn
+scipy
+seaborn
 squarify
